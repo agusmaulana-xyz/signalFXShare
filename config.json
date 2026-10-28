@@ -1,0 +1,9 @@
+{
+  "rules": [],
+  "ignore_outgoing": true,
+  "rate_limit": {
+    "delay_seconds": 1.0,
+    "max_attempts": 5,
+    "flood_wait_buffer_seconds": 1
+  }
+}
